@@ -1,0 +1,16 @@
+{
+  "name": "placeholders",
+  "repo": "shallker/Placeholders.js",
+  "description": "An HTML5 placeholder attribute polyfill",
+  "version": "2.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lib/main.js",
+    "lib/utils.js"
+  ]
+}
